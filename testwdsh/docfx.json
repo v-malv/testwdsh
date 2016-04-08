@@ -29,7 +29,10 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "layout": "Conceptual",
+      "breadcrumb_path": "/bcmsdn/toc.json"
+    },
     "fileMetadata": {},
     "template": [
       "op.html"
